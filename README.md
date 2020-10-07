@@ -1,5 +1,4 @@
-## [The Burger Builder ](https://react-my-burger-167c9.web.app/)
-
+## The Burger Builder
 It is a mobile responsive, comprehensive React.js / Redux.js web app, covering all of the Reactjs concepts and Redux.js is used for maintaining the state of the application. It includes authentication (JWT), form validation and proper routing to make it a Single Page App. For backend, using Firebase API for DB, auth and hosting. 
 This project was created with [Create React App](https://github.com/facebookincubator/create-react-app)
 
@@ -25,4 +24,4 @@ npm install
 npm start
 ```
 
-## 
+
